@@ -1,1 +1,2 @@
 # earthJourney
+Django blog app
